@@ -1,0 +1,13 @@
+.loginWrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.loginCard{
+    width: 27vw;
+    margin-top: 5%;
+}
+
+.font-link{
+    font-family: 'Roboto Mono', monospace;
+}
