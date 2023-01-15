@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This project uses ExpressJS and Firebase along with ReactJS.
+This project uses ExpressJS and Firebase along with ReactJS. Firebase Authentication has also been used.
 
 ## Available Scripts
 
